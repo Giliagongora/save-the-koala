@@ -2,3 +2,61 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+.row{
+	margin: 0px;
+}
+.navbar-inverse{
+	background-color: transparent;
+	border-color: transparent;
+}
+.back-portada-koala{
+	height: 100vh;
+	width: auto;
+	background-image: url("../img/portada.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+
+}
+ul li a{
+	color: white;
+}
+#letters0{
+	color: white;
+}
+#letters1{
+	color: white;
+}
+.parrafo{
+	margin-top: 10%;
+}
+.second-section{
+	height: 800px;	
+}
+.third-section{
+	height: 500px;
+	background-color: #A89F68;
+}
+#picture2{
+	border: 10px solid white;
+}
+#fondo-koala3{
+	height: 120vh;
+	background-image: url("../img/all.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+#letters3{
+	color: white;
+}
+#letters4{
+	color: #41521F;
+}
+.four-section .row{
+	margin-left: 0px;
+	width: 100vh;
+}
+.five-section{
+	height: 400px;
+}
