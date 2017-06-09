@@ -18,6 +18,17 @@ army green: 41521F;
 	position: relative;
 
 }
+#boton1{
+	background-color: #A89F68
+}
+#save-koala{
+	margin-left: 5%;
+	font-size: 15px;
+}
+#save-koa{
+	margin-right: 5%;
+	font-size: 15px;
+}
 ul li a{
 	color: white;
 }
@@ -41,7 +52,7 @@ ul li a{
 	border: 10px solid white;
 }
 #fondo-koala3{
-	height: 120vh;
+	height: 100vh;
 	background-image: url("../img/all.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -58,5 +69,48 @@ ul li a{
 	width: 100vh;
 }
 .five-section{
-	height: 400px;
+	height: 300px;
+}
+.six-section{
+	background-color: #A89F68;
+	height: 400px; 
+}
+#letters5{
+	color: white;
+}
+.seven-section{
+	background-color: #41521F;
+	height: 300px; 
+}
+.seven-section #letters6{
+	color: #A89F68;
+}
+.parrafo2{
+	margin-top: 8%;	
+}
+#row2{
+	margin-top: 15%;
+}
+#row3{
+	margin-top: 25%;
+}
+
+#row4{
+	margin-top: 8%;
+}
+
+#row5{
+	margin-top: 8%;
+}
+#row6{
+	margin-top: 5%;
+}
+#row7{
+	margin-top: 5%;
+}
+#row8{
+	margin-top: 8%;
+}
+#row9{
+	margin-top: 8%;
 }
